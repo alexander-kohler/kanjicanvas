@@ -77,7 +77,7 @@ If `data-candidate-list` is not specified, the results are returned as a string 
 
 
 ### Adding New refPatterns
-[kanjivg_refPatterns.js](https://github.com/alexander-kohler/kanjicanvas/blob/master/kanjivg_refPatterns.js) contains all the characters from the KanjiVG project, including Kana.
+[kanjivg_refPatterns.js](https://github.com/alexander-kohler/kanjicanvas/blob/master/kanjivg_refPatterns.js) contains all the characters from the KanjiVG project, including Kana. Kana entries can pollute the search results somewhat, so consider leaving them out.
 
 To add new refPatterns you must download [jTegaki](https://github.com/asdfjkl/kanjicanvas/files/4936570/jTegaki.zip) and follow the steps below. 
 
